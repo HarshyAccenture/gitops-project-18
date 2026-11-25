@@ -3,5 +3,5 @@ terraform {
 }
 
 output "message" {
-  value = "GitOps Deployment Demo"
+  value = "GitOps Deployment Updated"
 }
